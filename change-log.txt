@@ -1,0 +1,63 @@
+Date : 11th July 2017
+
+Version : 1.1
+
+CHANGE LOG
+----------
+- Introduce new Vimeo background variation.
+- Hide video player control in youtube video background html.
+
+FILE CHANGED
+------------
+- index-video-youtube.html
+- index-video-youtube-2.html
+- documentation/index.html
+
+FILE ADDED
+----------
+- index-video-vimeo.html
+- index-video-vimeo-2.html
+- css/vendor/jquery.mb.vimeo_player.min.css
+- css/vendor/font/Vimeo.glyphs
+- css/vendor/font/vimeo.otf
+- css/vendor/font/vimeo.ttf
+- css/vendor/font/vimeo.woff
+- css/vendor/font/vimeo.woff2
+- css/vendor/images/Vimeo.eps
+- css/vendor/images/vimeo.svg
+- js/vendor/jquery.mb.vimeo_player.min.js
+- js/vendor/bg-video-vimeo.js
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Date : 5th August 2017
+
+Version : 1.2
+
+CHANGE LOG
+----------
+- Change owlCarousel setting for testimonial & client section.
+- Change video URL in youtube video background html.
+- Remove unused FitVids script
+
+FILE CHANGED
+------------
+- index-video-youtube.html
+- index-video-youtube-2.html
+- documentation/index.html
+- js/main.js
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Date : 20th January 2018
+
+Version : 1.3
+
+CHANGE LOG
+----------
+- Fixed minor bug
+
+FILE CHANGED
+------------
+- css/main.css
+- js/main.js
