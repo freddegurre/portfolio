@@ -277,9 +277,13 @@
         return false;
     });
 
-    $('.works-item-inner').on('click', function() {
+    $('#vq').on('click', function() {
         $("#myModal-vq").modal();
     });
+    $('#homeys').on('click', function() {
+        $("#myModal-Homey").modal();
+    });
+
 
 })();
 //  Outer wrapper $(function ($)  : ends
